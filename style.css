@@ -1623,4 +1623,29 @@ body {
   .leaderboard-tabs {
     flex-wrap: wrap;
   }
+
+  .footer {
+  width: 100%;
+  text-align: center;
+  padding: 18px 0;
+  color: #fff;
+  background: rgba(19, 52, 59, 0.85);
+  font-size: 1.3rem;
+  box-shadow: 0 -2px 12px #00fff7;
+  letter-spacing: 0.06em;
+  }
+
+  .footer-link {
+  margin-left: 16px;
+  color: #00fff7;
+  font-weight: bold;
+  text-shadow: 0 0 8px #00fff7;
+  text-decoration: none;
+  }
+
+  .footer-link:hover {
+  text-decoration: underline;
+  color: #fff;
+  }
+
 }
