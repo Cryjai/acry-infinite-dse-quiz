@@ -4,14 +4,15 @@ Acry DSE Quiz係一個幫你DSE出頭天、玩毒舌串爆題庫嘅網頁App。�
 
 ## 🔥 Features
 - 四大科目：Economics / 中文 / English / 中史
-- Quiz模式：即時判分＋即刻串爆你
-- Flash Card模式：翻牌練習＋洗牌＋mark難度
-- FAQ模式：睇notes / hints / 解釋 / 影片 / 圖片
-- Leaderboard 「勁抽榜」：同廢人比較分數
-- 新增題目/notes：自己拎命都得
-- 毒舌feedback：正/錯即刻鬧爆
-- 全JSON題庫，自己edit唔使求神拜佛
-- 神級未來型UI，睇到返唔到舊世代
+- [x]Quiz模式：即時判分＋即刻串爆你
+- [x]Flash Card模式：翻牌練習＋洗牌＋mark難度
+- [x]FAQ模式：睇notes / hints / 解釋 / 影片 / 圖片
+- [x]Leaderboard 「勁抽榜」：同廢人比較分數
+- [x]新增題目/notes：自己拎命都得
+- [x]feedback：正/錯即刻鬧爆
+- [x]全JSON題庫，自己edit唔使求神拜佛
+- [x]神級未來型UI，睇到返唔到舊世代
+- [ ]Login to save progress(未學成sorry🙂有本事你自己fork咗去再加
 
 ## 🛠️ 技術棧
 - HTML5 + CSS3 + JavaScript (Vanilla死撐)
@@ -22,6 +23,7 @@ Acry DSE Quiz係一個幫你DSE出頭天、玩毒舌串爆題庫嘅網頁App。�
 Method 1
 直接用我個demo website
 https://cryjai.github.io/acry-infinite-dse-quiz/
+
 Method 2
 1. 用Git clone呢個倉（哂冷都得）
 2. 打開 `index.html`（唔使安裝server，直接飛）
