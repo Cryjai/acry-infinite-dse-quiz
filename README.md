@@ -16,9 +16,9 @@ Acry DSE Quiz係一個幫你DSE出頭天、玩毒舌串爆題庫嘅網頁App。�
 
 <details>
   <summary>🛠️ 技術棧</summary>
-  - HTML5 + CSS3 + JavaScript (Vanilla死撐)
-  - CSS Grid / Flexbox / Neon特效 / Animation
-  - LocalStorage 存進度 （係啊backend未學成啊等我考完試再學啦）
+- HTML5 + CSS3 + JavaScript (Vanilla死撐)
+- CSS Grid / Flexbox / Neon特效 / Animation
+- LocalStorage 存進度 （係啊backend未學成啊等我考完試再學啦）
 </details>
 
 ## ⚡ 安裝方法
