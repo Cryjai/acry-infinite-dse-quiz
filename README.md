@@ -34,7 +34,7 @@ Method 2
 5. Leaderboard睇下自己有冇資格去考DSE
 
 ## 💬 加題Pattern
-{
+'''{
 "id": 1,
 "question": "Explain price elasticity.",
 "type": "open", // open=打字 mc=選擇題
@@ -45,7 +45,7 @@ Method 2
 "notes": "呢題DSE常出",
 "explanation": "Elasticity = responsiveness.",
 "media": {"image": "", "video": ""}
-}
+}'''
 
 ## ✨ Made by [Acry CEO](https://github.com/Cryjai)
 - 連Github都係我自己人開
