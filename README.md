@@ -21,6 +21,7 @@ Acry DSE Quiz係一個幫你DSE出頭天、玩毒舌串爆題庫嘅網頁App。�
 ## ⚡ 安裝方法
 Method 1
 直接用我個demo website
+https://cryjai.github.io/acry-infinite-dse-quiz/
 Method 2
 1. 用Git clone呢個倉（哂冷都得）
 2. 打開 `index.html`（唔使安裝server，直接飛）
