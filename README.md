@@ -1,6 +1,6 @@
 # 🚀 Acry DSE Quiz - 未來感互動學霸系統
 
-Acry DSE Quiz係一個幫你DSE出頭天、玩毒舌串爆題庫嘅網頁App。無論你係想炸爆Economics、扮文青中文、抄Idioms做英文超人、定係背中史，你都搵唔到第二個app咁又型又幫到你！
+Acry DSE Quiz係一個幫你DSE出頭天、玩爆題庫嘅網頁App。無論你係想炸爆Economics、扮文青中文、抄Idioms做英文超人、定係背中史，你都搵唔到第二個app咁又型又幫到你！
 
 ## 🔥 Features
 - 四大科目：Economics / 中文 / English / 中史
