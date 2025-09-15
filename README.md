@@ -12,7 +12,7 @@ Acry DSE Quiz係一個幫你DSE出頭天、玩爆題庫嘅網頁App。無論你�
 - [x] feedback：正/錯即刻鬧爆
 - [x] 全JSON題庫，自己edit唔使求神拜佛
 - [x] 神級未來型UI，睇到返唔到舊世代
-- [ ] Login to save progress(未學成sorry🙂有本事你自己fork咗去再加
+- [ ] Login to save progress(未學成sorry🙂有本事你自己fork咗去再加，日後我嘅code水平再升級再派你哋做白老鼠
 
 ## 🛠️ 技術棧
 - HTML5 + CSS3 + JavaScript (Vanilla死撐)
