@@ -1625,27 +1625,34 @@ body {
   }
 
   .footer {
-  width: 100%;
-  text-align: center;
-  padding: 18px 0;
-  color: #fff;
-  background: rgba(19, 52, 59, 0.85);
-  font-size: 1.3rem;
-  box-shadow: 0 -2px 12px #00fff7;
-  letter-spacing: 0.06em;
-  }
+    position: relative;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(20px);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: var(--space-20) 0;
+    margin-top: var(--space-32);
+   }
 
-  .footer-link {
-  margin-left: 16px;
-  color: #00fff7;
-  font-weight: bold;
-  text-shadow: 0 0 8px #00fff7;
-  text-decoration: none;
-  }
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.8);
+   }
 
-  .footer-link:hover {
-  text-decoration: underline;
-  color: #fff;
-  }
+  .github-link {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: var(--space-8);
+   }
+
+  .github-link:hover {
+    color: #32c8eb;
+    text-shadow: 0 0 10px rgba(50, 200, 235, 0.5);
+   }
 
 }
